@@ -83,6 +83,10 @@ This is a test of using the RobotFramework
   ```sh
   pip install -U https://github.com/robotframework/RIDE/archive/master.zip
   ```
+* SaleniumLibrary
+  ```sh
+  pip install --upgrade robotframework-seleniumlibrary
+  ```
 
   
   
