@@ -95,7 +95,7 @@ This is a test of using the RobotFramework
    git clone https://github.com/BeeBeeCue/Aktia_RobotFramework
    ```
 2. Open CMD and open RIDE
- ```sh
+   ```sh
    ride.py
    ```
 3. Open the test suite
