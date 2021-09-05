@@ -81,7 +81,7 @@ This is a test of using the RobotFramework
   ```
 * RIDE
   ```sh
-  pip install robotframework-ride
+  pip install -U https://github.com/robotframework/RIDE/archive/master.zip
   ```
 
   
