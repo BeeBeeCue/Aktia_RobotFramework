@@ -45,8 +45,9 @@ This is a small test that verifies an author on a web blog post.
 This is a test of using the RobotFramework
 
 
-<img src="images/screenshot.png" width="500">
-<img src="images/diagram.png" width="800">
+<img src="images/ride.png" width="500">
+<img src="images/robotFile.png" width="500">
+<img src="images/logFile.png" width="500">
 
 
 
@@ -131,5 +132,6 @@ This is a test of using the RobotFramework
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/k-knutsen/
-[product-screenshot]: images/screenshot.png
-[class-screenshot]: images/diagram.png
+[ride-screenshot]: images/ride.png
+[robot-screenshot]: images/robotFile.png
+[log-screenshot]: images/logFile.png
