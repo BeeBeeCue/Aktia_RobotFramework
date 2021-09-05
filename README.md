@@ -87,6 +87,21 @@ This is a test of using the RobotFramework
   ```sh
   pip install --upgrade robotframework-seleniumlibrary
   ```
+* ChromeDriver
+  ```sh
+  https://chromedriver.chromium.org/downloads
+  ```
+  Check your Chrome version by going to Help > About Google Chrome
+  Go to the chromeDriver page and download the driver matching your Chrome version
+  Add the Chromedriver.exe file into the scripts folder 
+  ```sh
+  C:\Python\Scripts
+  ```
+  
+  
+  
+  
+  
 
   
   
